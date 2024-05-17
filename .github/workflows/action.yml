@@ -8,7 +8,7 @@ jobs:
     name: GitHub Profile Views Counter Action
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v4.1.5
+      - uses: actions/checkout@v4.1.6
         with:
           token: ${{ secrets.INSIGHTS_TOKEN }}
       - uses: actions/setup-node@v4.0.2
