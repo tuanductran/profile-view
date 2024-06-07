@@ -35,41 +35,9 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/tuanductran/profile-view/raw/master/graph/678907114/small/year.png" height="20"> 2450
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tuanductran/profile-view/tree/master/readme/347701968/year.md">
-				tuanductran
-			</a>
-		</td>
-		<td>
-			2024/6/5 12:00 AM UTC
-		</td>
-		<td>
-			159
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tuanductran/profile-view/raw/master/graph/347701968/small/year.png" height="20"> 337
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tuanductran/profile-view/tree/master/readme/809835087/year.md">
-				ui-ux
-			</a>
-		</td>
-		<td>
-			2024/6/5 1:07 AM UTC
-		</td>
-		<td>
-			5
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tuanductran/profile-view/raw/master/graph/809835087/small/year.png" height="20"> 29
-		</td>
-	</tr>
 </table>
 
-<small><i>Last updated on 2024/6/7 6:22 AM UTC</i></small>
+<small><i>Last updated on 2024/6/7 12:30 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
