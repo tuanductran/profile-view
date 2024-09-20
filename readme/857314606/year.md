@@ -1,7 +1,7 @@
 ## [🔙 profile-view](https://github.com/tuanductran/profile-view)
 
-### :octocat: [tuanductran](https://github.com/tuanductran/tuanductran)
-![Image of profile-view](https://github.com/tuanductran/profile-view/blob/master/graph/347701968/large/year.png)
+### :octocat: [site](https://github.com/tuanductran/site)
+![Image of profile-view](https://github.com/tuanductran/profile-view/blob/master/graph/857314606/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2024/9/1</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>3</code>
 		</td>
 		<td>
-			<code>17</code>
+			<code>59</code>
 		</td>
 	</tr>
 	<tr>
@@ -34,10 +34,10 @@
 			<code>2024/8/1</code>
 		</td>
 		<td>
-			<code>8</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>13</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2024/7/1</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>20</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -56,10 +56,10 @@
 			<code>2024/6/1</code>
 		</td>
 		<td>
-			<code>17</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>131</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -67,10 +67,10 @@
 			<code>2024/5/1</code>
 		</td>
 		<td>
-			<code>16</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>84</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -78,10 +78,10 @@
 			<code>2024/4/1</code>
 		</td>
 		<td>
-			<code>17</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>31</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@
 			<code>2024/3/1</code>
 		</td>
 		<td>
-			<code>30</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>49</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -100,10 +100,10 @@
 			<code>2024/2/1</code>
 		</td>
 		<td>
-			<code>52</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>54</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of profile-view](https://github.com/tuanductran/profile-view/blob/master/svg/347701968/badge.svg)](https://github.com/tuanductran/profile-view/blob/master/readme/347701968/week.md)
+[![Image of profile-view](https://github.com/tuanductran/profile-view/blob/master/svg/857314606/badge.svg)](https://github.com/tuanductran/profile-view/blob/master/readme/857314606/week.md)
 ```readme
-[![Image of profile-view](https://github.com/tuanductran/profile-view/blob/master/svg/347701968/badge.svg)](https://github.com/tuanductran/profile-view/blob/master/readme/347701968/week.md)
+[![Image of profile-view](https://github.com/tuanductran/profile-view/blob/master/svg/857314606/badge.svg)](https://github.com/tuanductran/profile-view/blob/master/readme/857314606/week.md)
 ```
 ### Header
-# tuanductran [<img alt="Image of profile-view" src="https://github.com/tuanductran/profile-view/blob/master/graph/347701968/small/year.png" height="20">](https://github.com/tuanductran/profile-view/blob/master/readme/347701968/year.md)
+# site [<img alt="Image of profile-view" src="https://github.com/tuanductran/profile-view/blob/master/graph/857314606/small/year.png" height="20">](https://github.com/tuanductran/profile-view/blob/master/readme/857314606/year.md)
 ```readme
-# tuanductran [<img alt="Image of profile-view" src="https://github.com/tuanductran/profile-view/blob/master/graph/347701968/small/year.png" height="20">](https://github.com/tuanductran/profile-view/blob/master/readme/347701968/year.md)
+# site [<img alt="Image of profile-view" src="https://github.com/tuanductran/profile-view/blob/master/graph/857314606/small/year.png" height="20">](https://github.com/tuanductran/profile-view/blob/master/readme/857314606/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

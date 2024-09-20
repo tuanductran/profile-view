@@ -53,39 +53,23 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/tuanductran/profile-view/tree/master/readme/809835087/year.md">
-				ui-ux
+			<a href="https://github.com/tuanductran/profile-view/tree/master/readme/857314606/year.md">
+				site
 			</a>
 		</td>
 		<td>
-			2024/9/18 1:17 AM UTC
-		</td>
-		<td>
-			6
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/tuanductran/profile-view/raw/master/graph/809835087/small/year.png" height="20"> 30
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/tuanductran/profile-view/tree/master/readme/824884725/year.md">
-				dotfiles
-			</a>
-		</td>
-		<td>
-			2024/9/18 1:17 AM UTC
+			2024/9/17 6:32 PM UTC
 		</td>
 		<td>
 			3
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/tuanductran/profile-view/raw/master/graph/824884725/small/year.png" height="20"> 4
+			<img alt="Response time graph" src="https://github.com/tuanductran/profile-view/raw/master/graph/857314606/small/year.png" height="20"> 59
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/9/20 6:23 PM UTC</i></small>
+<small><i>Last updated on 2024/9/20 6:32 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
