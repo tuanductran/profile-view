@@ -1,7 +1,7 @@
 {
-  "devMode": "false",
-  "advancedMode": "false",
-  "language": "en-US",
+  "devMode": "true",
+  "advancedMode": "true",
+  "language": "vi-VN",
   "repository": [
     "todo-list-vite",
     "tuanductran",
