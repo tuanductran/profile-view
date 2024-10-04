@@ -1,10 +1,11 @@
 {
-  "devMode": "true",
-  "advancedMode": "true",
-  "language": "vi-VN",
+  "devMode": "false",
+  "advancedMode": "false",
+  "language": "en-US",
   "repository": [
     "todo-list-vite",
     "tuanductran",
-    "site"
+    "site",
+    "news-publication"
   ]
 }
